@@ -15,7 +15,7 @@
     <hr>
 
     <div class="d-flex justify-content-between align-items-center mb-4">
-        <h1>All Categories</h1>
+        <h1>After update All Categories</h1>
         <a href="{{url('cats/create')}}" class="btn btn-success">Add New Category</a>
     </div>
 
